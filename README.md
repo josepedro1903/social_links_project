@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Social Links </h1>
 
 <p align="center">
 Social Links para divulgação de produtos e serviços online. <br/>
